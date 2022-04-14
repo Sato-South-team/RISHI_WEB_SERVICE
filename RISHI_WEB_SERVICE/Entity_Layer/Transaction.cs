@@ -10,7 +10,7 @@ namespace RISHI_WEB_SERVICE.Entity_Layer
 {
     public static class Transaction
     {
-        private static DataTable _dtEtrusion;
+        private static DataTable _dtEtrusion;  //test
         private static DataTable _dtWrapping;
         private static DataTable _dtWeaving;
         private static DataTable _dtKnitting;
